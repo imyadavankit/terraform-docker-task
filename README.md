@@ -3,6 +3,20 @@
 ## Objective
 Provision a local Docker container using Terraform.
 
+## Screenshots
+
+### Terraform Apply Success
+![Terraform Apply](screenshots/terraform-apply.png)
+
+### Docker Container Running
+![Docker PS](screenshots/docker-ps.png)
+
+### Nginx Website
+![Nginx Website](screenshots/nginx-website.png)
+
+## Objective
+Provision a local Docker container using Terraform.
+
 ## Steps
 1. Installed Docker and Terraform.
 2. Wrote `main.tf` to create an Nginx container.
