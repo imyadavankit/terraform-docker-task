@@ -6,7 +6,7 @@ Provision a local Docker container using Terraform.
 ## Screenshots
 
 ### Terraform Apply Success
-![Terraform Apply](screenshots/terraform-apply.png)
+![Terraform Apply](https://github.com/imyadavankit/terraform-docker-task/blob/main/Screenshot%202025-09-25%20114731.png?raw=true)
 
 ### Docker Container Running
 ![Docker PS](screenshots/docker-ps.png)
