@@ -9,7 +9,7 @@ Provision a local Docker container using Terraform.
 ![Terraform Apply](https://github.com/imyadavankit/terraform-docker-task/blob/main/Screenshot%202025-09-25%20114731.png?raw=true)
 
 ### Docker Container Running
-![Docker PS](screenshots/docker-ps.png)
+![Docker PS](https://github.com/imyadavankit/terraform-docker-task/blob/main/Screenshot%202025-09-25%20121217.png?raw=true)
 
 ### Nginx Website
 ![Nginx Website](https://github.com/imyadavankit/terraform-docker-task/blob/main/Screenshot%202025-09-25%20121005.png?raw=true)
