@@ -12,7 +12,7 @@ Provision a local Docker container using Terraform.
 ![Docker PS](screenshots/docker-ps.png)
 
 ### Nginx Website
-![Nginx Website](screenshots/nginx-website.png)
+![Nginx Website](https://github.com/imyadavankit/terraform-docker-task/blob/main/Screenshot%202025-09-25%20121005.png?raw=true)
 
 ## Objective
 Provision a local Docker container using Terraform.
